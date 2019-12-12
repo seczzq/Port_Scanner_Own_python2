@@ -1,4 +1,5 @@
 # Port_Scanner_Own_python2
+
 基于python2开发的多线程端口扫描工具，可自定义输出结果，高速轻量
 
 用法介绍：<br>
@@ -8,7 +9,7 @@ port scanner many threads<br>
 -------------------------------------------------------------------------<br>
 
 usage: port_scanner_YaHong.py [-h] [-f IPSFILE] [-t THREAD_NUMBER]<br>
-                              [-u SINGLE_IP] [-p PORT]<br>
+                               [-u SINGLE_IP] [-p PORT]<br>
                               
 
 optional arguments:<br>
