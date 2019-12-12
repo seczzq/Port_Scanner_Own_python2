@@ -4,10 +4,10 @@
 
 用法介绍：<br>
 
-例子：对ips文本中ip进行6379端口开放情况的筛查
-python port_scanner_YaHong.py -f ips.txt -p 6379
-
-
+例子：对ips文本中ip进行6379端口开放情况的筛查<br>
+python port_scanner_YaHong.py -f ips.txt -p 6379<br>
+<br>
+<br>
 
 ![](run.png)
 
